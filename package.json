@@ -1,0 +1,19 @@
+{
+  "name": "email-content-script",
+  "version": "1.0.0",
+  "description": "script for importing PingID's SDK's email template as V2 email contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.corp.pingidentity.com:pingid/email-content-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
